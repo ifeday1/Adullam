@@ -19,8 +19,7 @@ body {
 .image-container {
   position: relative;
   width: 100%;
-  max-width: 400px; /* Adjust maximum width if needed */
-}
+  max-width: 400px;}
 
 .image-container img {
   display: block;
